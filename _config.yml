@@ -17,30 +17,32 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: ActUp
+description: "Apps for Corrective and Preventive Action"
+keywords: "actup, corrective, preventive, action, cpa, free, app, download"
 
 # Site settings
-url: http://nandomoreira.me
-baseurl: "/dotX"
-# baseurl: ""
+url: http://arinsuga.com
+baseurl: "/actup"
+
+# Download settings
+download:
+  source  : https://github.com/sugadotnet/actup/archive/master.zip
+  release : https://github.com/sugadotnet/actup
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Arin Suga
+  job       : Professional Application Development Consultant
+  bio       : "Enthusiast and friendly, your friend to build a good application."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : arinsuga@gmail.com
+  url       : http://arinsuga.com
+  github    : https://github.com/sugaprivate
+  linkedin  : https://www.linkedin.com/in/arin-suga-941076a5/
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+repo: https://github.com/sugadotnet/actup
 
 # comments
-disqus_shortname: "fernandomoreira"
+disqus_shortname: "arinsuga"
